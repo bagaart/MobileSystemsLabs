@@ -10,8 +10,10 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/composeArticle" />
             <option value="$PROJECT_DIR$/firstapp" />
             <option value="$PROJECT_DIR$/hbapp" />
+            <option value="$PROJECT_DIR$/taskmanager" />
           </set>
         </option>
       </GradleProjectSettings>

@@ -22,3 +22,5 @@ dependencyResolutionManagement {
 rootProject.name = "FirstApp"
 include(":firstapp")
 include(":hbapp")
+include(":composeArticle")
+include(":taskmanager")
