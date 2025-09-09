@@ -20,4 +20,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "FirstApp"
-include(":app")
+include(":firstapp")
+include(":hbapp")
