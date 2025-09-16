@@ -8,8 +8,10 @@ import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.fillMaxHeight
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
@@ -46,7 +48,7 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun ComposeQuadrants(){
     Column(Modifier.fillMaxWidth()) {
-        Row(Modifier.weight(1f)) {
+        Row(Modifier.weight(0.5f)) {
             Card(
                 title = stringResource(R.string.titleQ1),
                 topicText = stringResource(R.string.textQ1),
@@ -57,10 +59,10 @@ fun ComposeQuadrants(){
                 title = stringResource(R.string.titleQ2),
                 topicText = stringResource(R.string.textQ2),
                 backgroundColor = Color(0xFFD0BCFF),
-                modifier = Modifier.weight(1f)
+                modifier = Modifier.weight(0.5f)
             )
         }
-        Row(Modifier.weight(1f)) {
+        Row(Modifier.weight(1f).fillMaxHeight()) {
             Card(
                 title = stringResource(R.string.titleQ3),
                 topicText = stringResource(R.string.textQ3),
@@ -71,7 +73,7 @@ fun ComposeQuadrants(){
                 title = stringResource(R.string.titleQ4),
                 topicText = stringResource(R.string.textQ4),
                 backgroundColor = Color(0xFFF6EDFF),
-                modifier = Modifier.weight(1f)
+                modifier = Modifier.weight(0.5f)
             )
         }
     }

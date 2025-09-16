@@ -54,7 +54,7 @@ fun GreetingText(message: String, from: String, modifier: Modifier = Modifier) {
         verticalArrangement = Arrangement.Center
         ) {
         Text(
-            text = "\n" + message,
+            text = message,
             fontSize = 100.sp,
             lineHeight = 116.sp,
             textAlign = TextAlign.Center
