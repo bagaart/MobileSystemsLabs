@@ -20,10 +20,12 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "FirstApp"
-include(":firstapp")
-include(":hbapp")
-include(":composeArticle")
-include(":taskmanager")
-include(":taskmanager2")
-include(":composequadrant")
-include(":businesscard")
+include(":first_lab")
+include(":first_lab:businesscard")
+include(":first_lab:composearticle")
+include(":first_lab:composequadrants")
+include(":first_lab:taskmanager")
+include(":first_lab:happybirthdayapp")
+include(":second_lab")
+include(":second_lab:lemonade")
+include(":second_lab:diceroller")

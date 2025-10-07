@@ -10,13 +10,16 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/businesscard" />
-            <option value="$PROJECT_DIR$/composeArticle" />
-            <option value="$PROJECT_DIR$/composequadrant" />
-            <option value="$PROJECT_DIR$/firstapp" />
-            <option value="$PROJECT_DIR$/hbapp" />
-            <option value="$PROJECT_DIR$/taskmanager" />
-            <option value="$PROJECT_DIR$/taskmanager2" />
+            <option value="$PROJECT_DIR$/diceroller" />
+            <option value="$PROJECT_DIR$/first_lab" />
+            <option value="$PROJECT_DIR$/first_lab/businesscard" />
+            <option value="$PROJECT_DIR$/first_lab/composearticle" />
+            <option value="$PROJECT_DIR$/first_lab/composequadrants" />
+            <option value="$PROJECT_DIR$/first_lab/happybirthdayapp" />
+            <option value="$PROJECT_DIR$/first_lab/taskmanager" />
+            <option value="$PROJECT_DIR$/second_lab" />
+            <option value="$PROJECT_DIR$/second_lab/diceroller" />
+            <option value="$PROJECT_DIR$/second_lab/lemonade" />
           </set>
         </option>
       </GradleProjectSettings>
