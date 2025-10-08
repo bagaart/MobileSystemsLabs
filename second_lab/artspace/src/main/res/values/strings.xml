@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="eiffel_tower_title">Эйфелева Башня</string>
+    <string name="eiffel_tower_description">Париж, Франция</string>
+    <string name="great_wall_title">Великая Китайская стена</string>
+    <string name="great_wall_description">Китай</string>
+    <string name="colosseum_title">Колизей</string>
+    <string name="colosseum_description">Рим, Италия</string>
+    <string name="pyramids_title">Пирамиды Гизы</string>
+    <string name="pyramids_description">Каир, Египет</string>
+    <string name="statue_of_liberty_title">Статуя Свободы</string>
+    <string name="statue_of_liberty_description">Нью-Йорк, США</string>
+</resources>
