@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">30Days</string>
+
+    <string name="scientist1">Михаил Ломоносов</string>
+    <string name="description1">Заложил основы современной химии и физики в России, открыл закон сохранения массы вещества.</string>
+
+    <string name="scientist2">Дмитрий Менделеев</string>
+    <string name="description2">Создал Периодическую таблицу химических элементов.</string>
+
+    <string name="scientist3">Иван Павлов</string>
+    <string name="description3">Открыл условные рефлексы, заложил основы физиологии высшей нервной деятельности.</string>
+
+    <string name="scientist4">Николай Лобачевский</string>
+    <string name="description4">Создал неевклидову геометрию — первую систему геометрии, отличную от Евклида.</string>
+
+    <string name="scientist5">Александр Попов</string>
+    <string name="description5">Изобрёл радио и продемонстрировал первую в мире радиосвязь.</string>
+
+    <string name="scientist6">Константин Циолковский</string>
+    <string name="description6">Основоположник теоретической космонавтики и ракетостроения.</string>
+
+    <string name="scientist7">Илья Мечников</string>
+    <string name="description7">Открыл фагоцитоз и заложил основы иммунологии; лауреат Нобелевской премии.</string>
+
+    <string name="scientist8">Софья Ковалевская</string>
+    <string name="description8">Первая в мире женщина-профессор математики; внесла вклад в теорию дифференциальных уравнений.</string>
+
+    <string name="scientist9">Владимир Вернадский</string>
+    <string name="description9">Разработал учение о биосфере и ноосфере.</string>
+
+    <string name="scientist10">Андрей Сахаров</string>
+    <string name="description10">Физик-ядерщик, один из создателей советской водородной бомбы; позже — правозащитник и лауреат Нобелевской премии мира.</string>
+
+    <string name="scientist11">Лев Ландау</string>
+    <string name="description11">Выдающийся теоретик, внёсший вклад в квантовую механику, физику плазмы и сверхтекучесть; лауреат Нобелевской премии.</string>
+
+    <string name="scientist12">Пётр Капица</string>
+    <string name="description12">Открыл сверхтекучесть жидкого гелия; лауреат Нобелевской премии по физике.</string>
+
+    <string name="scientist13">Лев Термен</string>
+    <string name="description13">Изобрёл терменвокс — первый в мире электронный музыкальный инструмент, а также разработал технологии скрытого прослушивания.</string>
+
+    <string name="scientist14">Георгий Гамов</string>
+    <string name="description14">Разработал теорию Большого взрыва и внёс вклад в генетику (модель ДНК).</string>
+
+    <string name="scientist15">Николай Жуковский</string>
+    <string name="description15">«Отец русской авиации», основатель аэродинамики как науки.</string>
+
+    <string name="scientist16">Александр Бутлеров</string>
+    <string name="description16">Создал теорию химического строения органических соединений.</string>
+
+    <string name="scientist17">Владимир Бехтерев</string>
+    <string name="description17">Основоположник рефлексологии и нейропсихологии в России.</string>
+
+    <string name="scientist18">Евгений Свердлов</string>
+    <string name="description18">Пионер молекулярной генетики и биотехнологий в России.</string>
+
+    <string name="scientist19">Аркадий Мигдал</string>
+    <string name="description19">Выдающийся физик-теоретик, работал в области ядерной физики и астрофизики.</string>
+
+    <string name="scientist20">Жорес Алфёров</string>
+    <string name="description20">Лауреат Нобелевской премии по физике за разработку полупроводниковых гетероструктур, легших в основу современных лазеров, светодиодов и солнечных батарей.</string>
+
+    <string name="scientist21">Алексей Абрикосов</string>
+    <string name="description21">Лауреат Нобелевской премии за теорию сверхпроводимости тип-II.</string>
+
+    <string name="scientist22">Виктор Глушков</string>
+    <string name="description22">Основоположник кибернетики в СССР, разработчик первых советских ЭВМ.</string>
+
+    <string name="scientist23">Виктор Амбарцумян</string>
+    <string name="description23">Основоположник советской теоретической астрофизики, разработал теорию рассеяния света в туманностях и заложил основы изучения нестационарных звёздных систем.</string>
+
+    <string name="scientist24">Юрий Овчинников</string>
+    <string name="description24">Пионер молекулярной биофизики и биоорганической химии в СССР.</string>
+
+    <string name="scientist25">Сергей Королёв</string>
+    <string name="description25">Главный конструктор советской космонавтики; запустил первый спутник и первого человека в космос.</string>
+
+    <string name="scientist26">Владимир Арнольд</string>
+    <string name="description26">Выдающийся математик, внёсший фундаментальный вклад в теорию динамических систем, теорию катастроф и классическую механику; соавтор теоремы Колмогорова–Арнольда–Мозера.</string>
+
+    <string name="scientist27">Анатолий Александров</string>
+    <string name="description27">Физик-ядерщик, внёсший вклад в развитие атомной энергетики.</string>
+
+    <string name="scientist28">Елена Боннер</string>
+    <string name="description28">Правозащитница и биолог, супруга Андрея Сахарова; боролась за свободу науки.</string>
+
+    <string name="scientist29">Игорь Курчатов</string>
+    <string name="description29">Руководил созданием первой советской атомной бомбы и атомной электростанции.</string>
+
+    <string name="scientist30">Зинаида Ермольева</string>
+    <string name="description30">Создала первый советский пенициллин и спасла тысячи жизней во время ВОВ.</string>
+
+    <string name="expand_button_content_description">See more or less information about a dog.</string>
+
+</resources>

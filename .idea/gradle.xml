@@ -10,12 +10,19 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/fifth_lab" />
+            <option value="$PROJECT_DIR$/fifth_lab/30days" />
+            <option value="$PROJECT_DIR$/fifth_lab/superheroes" />
+            <option value="$PROJECT_DIR$/fifth_lab/wooof" />
             <option value="$PROJECT_DIR$/first_lab" />
             <option value="$PROJECT_DIR$/first_lab/businesscard" />
             <option value="$PROJECT_DIR$/first_lab/composearticle" />
             <option value="$PROJECT_DIR$/first_lab/composequadrants" />
             <option value="$PROJECT_DIR$/first_lab/happybirthdayapp" />
             <option value="$PROJECT_DIR$/first_lab/taskmanager" />
+            <option value="$PROJECT_DIR$/fourth_lab" />
+            <option value="$PROJECT_DIR$/fourth_lab/affirmations" />
+            <option value="$PROJECT_DIR$/fourth_lab/courses" />
             <option value="$PROJECT_DIR$/kotlin2" />
             <option value="$PROJECT_DIR$/second_lab" />
             <option value="$PROJECT_DIR$/second_lab/artspace" />
