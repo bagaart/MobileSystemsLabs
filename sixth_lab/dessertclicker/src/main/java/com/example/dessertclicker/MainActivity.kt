@@ -142,7 +142,8 @@ private fun DessertClickerApp(
                         dessertsSold = uiState.dessertsSold,
                         revenue = uiState.revenue
                     )
-                }
+                },
+                modifier = Modifier.padding(top = 20.dp)
             )
         }
     ) { contentPadding ->
