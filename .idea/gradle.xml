@@ -10,6 +10,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/eighth_lab" />
+            <option value="$PROJECT_DIR$/eighth_lab/reply" />
+            <option value="$PROJECT_DIR$/eighth_lab/reply2" />
             <option value="$PROJECT_DIR$/fifth_lab" />
             <option value="$PROJECT_DIR$/fifth_lab/30days" />
             <option value="$PROJECT_DIR$/fifth_lab/superheroes" />
