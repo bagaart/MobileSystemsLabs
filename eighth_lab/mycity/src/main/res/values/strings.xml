@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">MyCity</string>
+    <string name="city">Казань</string>
+    <string name="sight">Достопримечательности</string>
+    <string name="coffeeshop">Кофейни</string>
+    <string name="park">Парки</string>
+    <string name="shoppingcenter">Торговые центры</string>
+
+    <!-- Достопримечательности -->
+    <string name="sight1">Казанский Кремль</string>
+    <string name="sight2">Мечеть Кул-Шариф</string>
+    <string name="sight3">Улица Баумана</string>
+    <string name="sight4">Храм всех религий</string>
+    <string name="sight1descr">Казанский Кремль — историческая цитадель в центре города, объект Всемирного наследия ЮНЕСКО. Здесь сосредоточены памятники архитектуры разных эпох и культур.</string>
+    <string name="sight2descr">Мечеть Кул-Шариф — главная мечеть Татарстана, расположенная на территории Кремля. Важный символ города и духовный центр.</string>
+    <string name="sight3descr">Улица Баумана — главная пешеходная улица города, известная как Казанский Арбат. Много сувенирных лавок, кафе и памятников.</string>
+    <string name="sight4descr">Храм всех религий — уникальное архитектурное сооружение, объединяющее элементы 16 мировых религий. Является культурным центром.</string>
+
+    <!-- Кофейни -->
+    <string name="coffeeshop1">Coffee Like</string>
+    <string name="coffeeshop2">Surf Coffee</string>
+    <string name="coffeeshop3">The Drip</string>
+    <string name="coffeeshop1descr">ул. Баумана, 25, пн-сб 09:00–22:00, вс 10:00–22:00</string>
+    <string name="coffeeshop2descr">ул. Пушкина, 5/43, пн-пт 08:00–23:00, сб-вс 09:00–23:00</string>
+    <string name="coffeeshop3descr">ул. Право-Булачная, 35/2, ежедневно 09:00–21:00</string>
+
+    <!-- Парки -->
+    <string name="park1">Парк Победы</string>
+    <string name="park2">Парк Горького</string>
+    <string name="park3">Чёрное озеро</string>
+    <string name="park4">Ленинский сад</string>
+    <string name="park1descr">Парк Победы — мемориальный парк, посвящённый героям Великой Отечественной войны. Расположен на берегу Казанки, есть аллея Героев и вечный огонь.</string>
+    <string name="park2descr">Парк Горького — центральный парк культуры и отдыха с аттракционами, фонтанами и зонами для пикников. Идеальное место для семейного отдыха.</string>
+    <string name="park3descr">Чёрное озеро — живописный сквер в центре города с катком зимой и летними террасами. Популярное место встреч и прогулок.</string>
+    <string name="park4descr">Ленинский сад — уютный сквер в историческом центре с фонтанами и скамейками. Отличное место для отдыха после экскурсий.</string>
+
+    <!-- Торговые центры -->
+    <string name="shoppingcenter1">KazanMall</string>
+    <string name="shoppingcenter2">МЕГА</string>
+    <string name="shoppingcenter3">Кольцо</string>
+    <string name="shoppingcenter1descr">ул. Павлюхина, 91, ежедневно 10:00–22:00</string>
+    <string name="shoppingcenter2descr">пр. Победы, 141, ежедневно 10:00–22:00</string>
+    <string name="shoppingcenter3descr">ул. Петербургская, 1, ежедневно 10:00–22:00</string>
+</resources>

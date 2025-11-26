@@ -11,6 +11,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/eighth_lab" />
+            <option value="$PROJECT_DIR$/eighth_lab/mycity" />
             <option value="$PROJECT_DIR$/eighth_lab/reply" />
             <option value="$PROJECT_DIR$/eighth_lab/reply2" />
             <option value="$PROJECT_DIR$/eighth_lab/training_sports" />
